@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Khushikamra/Leetcode/tree/master/0283-move-zeroes) |
 | [1364-tuple-with-same-product](https://github.com/Khushikamra/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Khushikamra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Khushikamra/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Khushikamra/Leetcode/tree/master/1364-tuple-with-same-product) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Khushikamra/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
