@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Khushikamra/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Khushikamra/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Khushikamra/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3463-alternating-groups-i](https://github.com/Khushikamra/Leetcode/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Khushikamra/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/Khushikamra/Leetcode/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
