@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Khushikamra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Khushikamra/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Khushikamra/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Khushikamra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Khushikamra/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3463-alternating-groups-i](https://github.com/Khushikamra/Leetcode/tree/master/3463-alternating-groups-i) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Khushikamra/Leetcode/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/Khushikamra/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Khushikamra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Khushikamra/Leetcode/tree/master/0268-missing-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Khushikamra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
