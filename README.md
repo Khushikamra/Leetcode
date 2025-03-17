@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Khushikamra/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Khushikamra/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Khushikamra/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Khushikamra/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Khushikamra/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Khushikamra/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Khushikamra/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Khushikamra/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Khushikamra/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Khushikamra/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Khushikamra/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Khushikamra/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Khushikamra/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Khushikamra/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Khushikamra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Khushikamra/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Khushikamra/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Khushikamra/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Khushikamra/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
