@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Khushikamra/Leetcode/tree/master/0176-second-highest-salary) |
 | [1811-fix-names-in-a-table](https://github.com/Khushikamra/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1942-primary-department-for-each-employee](https://github.com/Khushikamra/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
